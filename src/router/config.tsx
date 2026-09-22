@@ -12,7 +12,6 @@ import News from "../pages/news/page";
 import NewsArticle from "../pages/news/detail/page";
 import Gallery from "../pages/gallery/page";
 import Contact from "../pages/contact/page";
-import Download from "../pages/download/page";
 import NotFound from "../pages/NotFound";
 
 const routes: RouteObject[] = [
@@ -32,7 +31,6 @@ const routes: RouteObject[] = [
       { path: "news/:id", element: <NewsArticle /> },
       { path: "gallery", element: <Gallery /> },
       { path: "contact", element: <Contact /> },
-      { path: "download", element: <Download /> },
       { path: "*", element: <NotFound /> },
     ],
   },
