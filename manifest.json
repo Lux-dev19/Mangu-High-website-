@@ -1,0 +1,714 @@
+{
+  "site": "Mangu High School Website",
+  "generatedAt": "2026-09-22T10:05:08.196Z",
+  "generator": "In-browser source export",
+  "fileCount": 110,
+  "files": [
+    {
+      "path": "eslint-rules/route-element-jsx.js",
+      "bytes": 2978
+    },
+    {
+      "path": "eslint.config.ts",
+      "bytes": 2932
+    },
+    {
+      "path": "index.html",
+      "bytes": 3925
+    },
+    {
+      "path": "package.json",
+      "bytes": 1054
+    },
+    {
+      "path": "postcss.config.ts",
+      "bytes": 88
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 371
+    },
+    {
+      "path": "src/components/base/Crest.tsx",
+      "bytes": 1177
+    },
+    {
+      "path": "src/components/base/CtaBand.tsx",
+      "bytes": 2125
+    },
+    {
+      "path": "src/components/base/FaqAccordion.tsx",
+      "bytes": 1944
+    },
+    {
+      "path": "src/components/base/FilterTabs.tsx",
+      "bytes": 1272
+    },
+    {
+      "path": "src/components/base/Modal.tsx",
+      "bytes": 1854
+    },
+    {
+      "path": "src/components/base/MonogramAvatar.tsx",
+      "bytes": 1626
+    },
+    {
+      "path": "src/components/base/PageHero.tsx",
+      "bytes": 2146
+    },
+    {
+      "path": "src/components/base/Reveal.tsx",
+      "bytes": 1510
+    },
+    {
+      "path": "src/components/base/SectionHeading.tsx",
+      "bytes": 1293
+    },
+    {
+      "path": "src/components/base/Seo.tsx",
+      "bytes": 942
+    },
+    {
+      "path": "src/components/base/StatCounter.tsx",
+      "bytes": 1613
+    },
+    {
+      "path": "src/components/feature/ScrollToTop.tsx",
+      "bytes": 539
+    },
+    {
+      "path": "src/components/feature/SiteFooter.tsx",
+      "bytes": 5065
+    },
+    {
+      "path": "src/components/feature/SiteHeader.tsx",
+      "bytes": 10107
+    },
+    {
+      "path": "src/components/feature/SiteLayout.tsx",
+      "bytes": 482
+    },
+    {
+      "path": "src/i18n/index.ts",
+      "bytes": 409
+    },
+    {
+      "path": "src/i18n/local/index.ts",
+      "bytes": 648
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 9181
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 246
+    },
+    {
+      "path": "src/mocks/about.ts",
+      "bytes": 4417
+    },
+    {
+      "path": "src/mocks/academics.ts",
+      "bytes": 22708
+    },
+    {
+      "path": "src/mocks/admissions.ts",
+      "bytes": 5511
+    },
+    {
+      "path": "src/mocks/clubs.ts",
+      "bytes": 11033
+    },
+    {
+      "path": "src/mocks/community.ts",
+      "bytes": 10868
+    },
+    {
+      "path": "src/mocks/contact.ts",
+      "bytes": 1273
+    },
+    {
+      "path": "src/mocks/gallery.ts",
+      "bytes": 3301
+    },
+    {
+      "path": "src/mocks/news.ts",
+      "bytes": 17961
+    },
+    {
+      "path": "src/mocks/site.ts",
+      "bytes": 4768
+    },
+    {
+      "path": "src/mocks/studentLife.ts",
+      "bytes": 5506
+    },
+    {
+      "path": "src/pages/about/components/AlumniShowcase.tsx",
+      "bytes": 2249
+    },
+    {
+      "path": "src/pages/about/components/Story.tsx",
+      "bytes": 3367
+    },
+    {
+      "path": "src/pages/about/components/Timeline.tsx",
+      "bytes": 6377
+    },
+    {
+      "path": "src/pages/about/components/VisionMission.tsx",
+      "bytes": 3008
+    },
+    {
+      "path": "src/pages/about/page.tsx",
+      "bytes": 1775
+    },
+    {
+      "path": "src/pages/academics/components/Curriculum.tsx",
+      "bytes": 1701
+    },
+    {
+      "path": "src/pages/academics/components/Intro.tsx",
+      "bytes": 2424
+    },
+    {
+      "path": "src/pages/academics/components/Pillars.tsx",
+      "bytes": 2122
+    },
+    {
+      "path": "src/pages/academics/components/SciencesSection.tsx",
+      "bytes": 3275
+    },
+    {
+      "path": "src/pages/academics/components/SubjectChoices.tsx",
+      "bytes": 5951
+    },
+    {
+      "path": "src/pages/academics/components/Support.tsx",
+      "bytes": 3125
+    },
+    {
+      "path": "src/pages/academics/page.tsx",
+      "bytes": 1957
+    },
+    {
+      "path": "src/pages/administration/components/CommunityDirectory.tsx",
+      "bytes": 7757
+    },
+    {
+      "path": "src/pages/administration/components/ProfileCard.tsx",
+      "bytes": 1738
+    },
+    {
+      "path": "src/pages/administration/components/ProfileModalContent.tsx",
+      "bytes": 1937
+    },
+    {
+      "path": "src/pages/administration/page.tsx",
+      "bytes": 2503
+    },
+    {
+      "path": "src/pages/admissions/components/AdmissionsFaq.tsx",
+      "bytes": 966
+    },
+    {
+      "path": "src/pages/admissions/components/DatesAndBoarding.tsx",
+      "bytes": 3900
+    },
+    {
+      "path": "src/pages/admissions/components/Requirements.tsx",
+      "bytes": 3909
+    },
+    {
+      "path": "src/pages/admissions/page.tsx",
+      "bytes": 2157
+    },
+    {
+      "path": "src/pages/clubs/components/ClubRhythm.tsx",
+      "bytes": 1589
+    },
+    {
+      "path": "src/pages/clubs/components/ClubsDirectory.tsx",
+      "bytes": 3387
+    },
+    {
+      "path": "src/pages/clubs/components/ClubsIntro.tsx",
+      "bytes": 2843
+    },
+    {
+      "path": "src/pages/clubs/components/FeaturedProgrammes.tsx",
+      "bytes": 2887
+    },
+    {
+      "path": "src/pages/clubs/page.tsx",
+      "bytes": 1787
+    },
+    {
+      "path": "src/pages/contact/components/ContactForm.tsx",
+      "bytes": 6531
+    },
+    {
+      "path": "src/pages/contact/components/ContactInfo.tsx",
+      "bytes": 3951
+    },
+    {
+      "path": "src/pages/contact/components/ContactMap.tsx",
+      "bytes": 1596
+    },
+    {
+      "path": "src/pages/contact/page.tsx",
+      "bytes": 4390
+    },
+    {
+      "path": "src/pages/departments/components/DepartmentExplorer.tsx",
+      "bytes": 7155
+    },
+    {
+      "path": "src/pages/departments/page.tsx",
+      "bytes": 2879
+    },
+    {
+      "path": "src/pages/download/components/DownloadPanel.tsx",
+      "bytes": 11313
+    },
+    {
+      "path": "src/pages/download/exportBundle.ts",
+      "bytes": 4912
+    },
+    {
+      "path": "src/pages/download/page.tsx",
+      "bytes": 7361
+    },
+    {
+      "path": "src/pages/gallery/components/GalleryGrid.tsx",
+      "bytes": 3726
+    },
+    {
+      "path": "src/pages/gallery/components/Lightbox.tsx",
+      "bytes": 3576
+    },
+    {
+      "path": "src/pages/gallery/page.tsx",
+      "bytes": 1473
+    },
+    {
+      "path": "src/pages/home/components/AboutPreview.tsx",
+      "bytes": 2923
+    },
+    {
+      "path": "src/pages/home/components/AcademicExcellence.tsx",
+      "bytes": 2297
+    },
+    {
+      "path": "src/pages/home/components/AdmissionsCTA.tsx",
+      "bytes": 2978
+    },
+    {
+      "path": "src/pages/home/components/AlumniSection.tsx",
+      "bytes": 2742
+    },
+    {
+      "path": "src/pages/home/components/CampusSection.tsx",
+      "bytes": 2762
+    },
+    {
+      "path": "src/pages/home/components/CommunityPreview.tsx",
+      "bytes": 2513
+    },
+    {
+      "path": "src/pages/home/components/ContactStrip.tsx",
+      "bytes": 5625
+    },
+    {
+      "path": "src/pages/home/components/EventsSection.tsx",
+      "bytes": 3024
+    },
+    {
+      "path": "src/pages/home/components/GalleryPreview.tsx",
+      "bytes": 2712
+    },
+    {
+      "path": "src/pages/home/components/Hero.tsx",
+      "bytes": 6607
+    },
+    {
+      "path": "src/pages/home/components/NewsSection.tsx",
+      "bytes": 4872
+    },
+    {
+      "path": "src/pages/home/components/SportsPreview.tsx",
+      "bytes": 2726
+    },
+    {
+      "path": "src/pages/home/components/StatsBand.tsx",
+      "bytes": 1815
+    },
+    {
+      "path": "src/pages/home/components/StudentLifePreview.tsx",
+      "bytes": 2348
+    },
+    {
+      "path": "src/pages/home/components/Welcome.tsx",
+      "bytes": 3499
+    },
+    {
+      "path": "src/pages/home/page.tsx",
+      "bytes": 1572
+    },
+    {
+      "path": "src/pages/news/components/EventsTimeline.tsx",
+      "bytes": 3640
+    },
+    {
+      "path": "src/pages/news/components/NewsGrid.tsx",
+      "bytes": 5354
+    },
+    {
+      "path": "src/pages/news/detail/components/ArticleBody.tsx",
+      "bytes": 2545
+    },
+    {
+      "path": "src/pages/news/detail/components/ArticleHeader.tsx",
+      "bytes": 3109
+    },
+    {
+      "path": "src/pages/news/detail/components/ArticleSidebar.tsx",
+      "bytes": 6472
+    },
+    {
+      "path": "src/pages/news/detail/components/RelatedArticles.tsx",
+      "bytes": 2927
+    },
+    {
+      "path": "src/pages/news/detail/page.tsx",
+      "bytes": 4865
+    },
+    {
+      "path": "src/pages/news/page.tsx",
+      "bytes": 2360
+    },
+    {
+      "path": "src/pages/NotFound.tsx",
+      "bytes": 754
+    },
+    {
+      "path": "src/pages/students/components/ClubsGrid.tsx",
+      "bytes": 2026
+    },
+    {
+      "path": "src/pages/students/components/LeadershipSection.tsx",
+      "bytes": 2312
+    },
+    {
+      "path": "src/pages/students/components/LifeHighlights.tsx",
+      "bytes": 2107
+    },
+    {
+      "path": "src/pages/students/components/SportsSection.tsx",
+      "bytes": 2257
+    },
+    {
+      "path": "src/pages/students/page.tsx",
+      "bytes": 1767
+    },
+    {
+      "path": "src/router/config.tsx",
+      "bytes": 1599
+    },
+    {
+      "path": "src/router/index.ts",
+      "bytes": 709
+    },
+    {
+      "path": "tailwind.config.ts",
+      "bytes": 1693
+    },
+    {
+      "path": "tsconfig.app.json",
+      "bytes": 1040
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 119
+    },
+    {
+      "path": "tsconfig.node.json",
+      "bytes": 630
+    },
+    {
+      "path": "vite-env.d.ts",
+      "bytes": 248
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 2216
+    }
+  ],
+  "totalUncompressedBytes": 378191,
+  "externalAssets": [
+    {
+      "url": "http://localhost:3000",
+      "referencedIn": [
+        "src/pages/download/exportBundle.ts",
+        "src/pages/download/page.tsx"
+      ]
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.min.css",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/mangu-high-school-1637054156.webp",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts",
+        "src/mocks/studentLife.ts",
+        "src/pages/clubs/components/ClubsIntro.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/mangu-high-school-1637055956.webp",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/pages/about/page.tsx",
+        "src/pages/academics/components/Intro.tsx",
+        "src/pages/administration/page.tsx",
+        "src/pages/home/components/CampusSection.tsx",
+        "src/pages/students/page.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/mangu-high-school-1637057788.webp",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts",
+        "src/mocks/studentLife.ts",
+        "src/pages/academics/page.tsx",
+        "src/pages/clubs/page.tsx",
+        "src/pages/departments/page.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/mangu-high-school-1637058465.webp",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/pages/academics/page.tsx",
+        "src/pages/administration/page.tsx",
+        "src/pages/admissions/components/Requirements.tsx",
+        "src/pages/departments/page.tsx",
+        "src/pages/gallery/page.tsx",
+        "src/pages/home/components/AdmissionsCTA.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/mangu-high-school-1637059421.webp",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/mocks/studentLife.ts",
+        "src/pages/about/page.tsx",
+        "src/pages/admissions/page.tsx",
+        "src/pages/gallery/page.tsx",
+        "src/pages/home/components/Hero.tsx",
+        "src/pages/students/components/LeadershipSection.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1507883433mangu_gate.jpg",
+      "referencedIn": [
+        "index.html",
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts",
+        "src/pages/about/components/Story.tsx",
+        "src/pages/admissions/page.tsx",
+        "src/pages/clubs/page.tsx",
+        "src/pages/contact/page.tsx",
+        "src/pages/home/components/Welcome.tsx",
+        "src/pages/news/page.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533885900086A3293%5B1%5D.jpg",
+      "referencedIn": [
+        "src/mocks/clubs.ts",
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts",
+        "src/mocks/studentLife.ts"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533886337JPG_7095%281%29.JPG",
+      "referencedIn": [
+        "src/mocks/clubs.ts",
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533886605JPG_7144%281%29.JPG",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/pages/news/detail/page.tsx",
+        "src/pages/news/page.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533907631086A3383%5B1%5D.jpg",
+      "referencedIn": [
+        "src/mocks/gallery.ts"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533907782086A3313%5B1%5D.jpg",
+      "referencedIn": [
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts",
+        "src/pages/home/components/SportsPreview.tsx",
+        "src/pages/students/page.tsx"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533908715086A3346%5B1%5D.jpg",
+      "referencedIn": [
+        "src/mocks/clubs.ts"
+      ]
+    },
+    {
+      "url": "https://elimu-gen4.ams3.digitaloceanspaces.com/gen4/articles/uploads/1533908748086A3371%5B1%5D.jpg",
+      "referencedIn": [
+        "src/mocks/clubs.ts",
+        "src/mocks/gallery.ts",
+        "src/mocks/news.ts"
+      ]
+    },
+    {
+      "url": "https://fonts.googleapis.com",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap",
+      "referencedIn": [
+        "src/index.css"
+      ]
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Pacifico&display=swap",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://fonts.gstatic.com",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://readdy.ai/api/form/dai0ft3oh653ivfvo6vg",
+      "referencedIn": [
+        "src/pages/contact/components/ContactForm.tsx"
+      ]
+    },
+    {
+      "url": "https://readdy.ai/api/search-image?query=Abstract%20dark%20navy%20technology%20background%20with%20soft%20golden%20light%20trails%20and%20subtle%20grid%20lines%20representing%20source%20code%20and%20data%2C%20minimal%20elegant%20digital%20texture%2C%20no%20text%2C%20high%20detail&width=1800&height=1000&seq=mangu-download-hero&orientation=landscape",
+      "referencedIn": [
+        "src/pages/download/page.tsx"
+      ]
+    },
+    {
+      "url": "https://readdy.ai/api/search-image?query=Modern%20navy%20and%20gold%20graduation%20ceremony%20at%20a%20Kenyan%20national%20school%20with%20students%20in%20academic%20dress%2C%20dignified%20celebratory%20atmosphere%2C%20editorial%20photography%2C%20warm%20light%2C%20high%20detail&width=1800&height=1000&seq=mangu-download-cta&orientation=landscape",
+      "referencedIn": [
+        "src/pages/download/page.tsx"
+      ]
+    },
+    {
+      "url": "https://schema.org",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://twitter.com/intent/tweet?text=${shareText}&url=${encodeURIComponent(shareUrl",
+      "referencedIn": [
+        "src/pages/news/detail/components/ArticleSidebar.tsx"
+      ]
+    },
+    {
+      "url": "https://twitter.com/search?q=mangu%20high%20school",
+      "referencedIn": [
+        "src/mocks/site.ts"
+      ]
+    },
+    {
+      "url": "https://vite.dev/config/",
+      "referencedIn": [
+        "vite.config.ts"
+      ]
+    },
+    {
+      "url": "https://wa.me/?text=${shareText}%20${encodeURIComponent(shareUrl",
+      "referencedIn": [
+        "src/pages/news/detail/components/ArticleSidebar.tsx"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/search/top?q=mangu%20high%20school",
+      "referencedIn": [
+        "src/mocks/site.ts"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl",
+      "referencedIn": [
+        "src/pages/news/detail/components/ArticleSidebar.tsx"
+      ]
+    },
+    {
+      "url": "https://www.google.com/maps?q=Mangu%20High%20School%20Thika%20Kenya&output=embed",
+      "referencedIn": [
+        "src/pages/contact/components/ContactMap.tsx",
+        "src/pages/home/components/ContactStrip.tsx"
+      ]
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(contactInfo.mapQuery",
+      "referencedIn": [
+        "src/pages/contact/components/ContactInfo.tsx",
+        "src/pages/contact/components/ContactMap.tsx"
+      ]
+    },
+    {
+      "url": "https://www.instagram.com/explore/tags/manguhighschool/",
+      "referencedIn": [
+        "src/mocks/site.ts"
+      ]
+    },
+    {
+      "url": "https://www.manguhigh.com/",
+      "referencedIn": [
+        "index.html"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=mangu+high+school",
+      "referencedIn": [
+        "src/mocks/site.ts"
+      ]
+    }
+  ],
+  "notes": [
+    "Source and configuration files are bundled in full.",
+    "External assets are referenced by URL, not copied, and are listed in externalAssets.",
+    "No secrets, credentials or private data are included in this export."
+  ]
+}
